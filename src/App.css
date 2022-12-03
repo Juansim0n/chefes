@@ -1,0 +1,36 @@
+.chefe{
+  background-image: url(Imagens/chefe.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 100vw;
+            height: 100vh;
+            margin: 0 auto;
+
+}
+
+main {
+  padding: 150px;
+}
+
+main div {
+  background: rgb(255, 255, 255);
+ 
+  padding: 75px;
+  margin: 20px auto;
+  border-radius: 450px;
+  font-size: 65px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main div:nth-child(1) {
+  width: 800px;
+}
+main div:nth-child(2) {
+  width: 800px;
+}
+main div:nth-child(3) {
+  width: 800px;
+}
+main div:nth-child(4) {
+  width: 800px;
+}
